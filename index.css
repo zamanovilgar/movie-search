@@ -1,0 +1,11 @@
+.sapka {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  
+}
+.imgana{
+    width: 75px;
+    height:75px;
+    /* background-color: rgb(13,110,253); */
+}
